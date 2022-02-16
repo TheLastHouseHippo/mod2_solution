@@ -27,7 +27,7 @@ body{
 .text{
   position: relative;
   top: 0;
-  background-color:purple;
+  background-color:grey;
   margin: 15px;
   padding: 25px;
   border: 1px solid black;
